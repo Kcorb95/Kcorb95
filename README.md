@@ -42,7 +42,7 @@ const kevin = {
 - 👯 I’m looking to collaborate on creating open-source projects.
 - 💬 Ping me about `game design`, `tech`, `community`
 - 🚧 Currently building a community on Discord to connect New York local gamers and other hobbyists.
-
+- 🎳 Hobbies include anything games, tabletop, creating content, DIY, archery, ice skating, and space & science.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
