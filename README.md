@@ -1,11 +1,11 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Kevin 👋 </h2>
-<p><em>Technical Community Manager at <a href="https://github.com/postmanlabs">Postman </a><img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="30"></em></p>
+<p><em>Software Engineer II at <a href="https://github.com/postmanlabs">Postman </a><img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="30"></em></p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@DevRelKev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevRelKev)](https://twitter.com/devrelkev)
 [![Linkedin Badge](https://img.shields.io/badge/-Kcorb95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kcorb95/)](https://www.linkedin.com/in/kcorb95/)
 
 ## 🧐 About Me
-Passionate about building community and striving to build a more inclusive world. Currently technical community manager in DevRel at Postman. CS grad with a rich background in software engineering and full-stack development. In my free time, I'm building a community on Discord to connect New York local gamers and other hobbyists. I thrive on problem-solving and am constantly seeking to improve my skills and knowledge.
+Passionate about building community and striving to build a more inclusive world. Currently SWE II at Postman. CS grad with a rich background in software engineering and full-stack development. In my free time, I'm building a community on Discord to connect New York local gamers and other hobbyists. I thrive on problem-solving and am constantly seeking to improve my skills and knowledge.
 ```javascript
 const kevin = {
     pronouns: "He" | "Him",
