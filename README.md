@@ -10,22 +10,22 @@ Passionate about building community and striving to build a more inclusive world
 const kevin = {
     pronouns: "He" | "Him",
     location: "New York City",
-    code: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "Java", "C++"],
+    code: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "Java", "C#", "C++"],
     askMeAbout: ["game design", "tech", "apis", "community"],
     technologies: {
         frontEnd: {
-            js: ["React / Redux", "NextJS", "NestJS"],
+            js: ["Next", "Astro", "Gatsby", "React", "Svelte"],
             css: ["Tailwind", "Bootstrap", "Bulma"]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "Nest"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["postgres", "redis", "cassandra", "mongo", "sqlite"],
-        misc: ["GraphQL", "Postman", "Astro"]
+        devOps: ["AWS", "CloudFormation/Teraform", "Vercel", "CI/CD", "Docker🐳", "Nginx"],
+        databases: ["postgres", "mysql", "mongodb", "redis", "cassandra", "sqlite"],
+        technologies: ["GraphQL & Apollo", "Ghost CMS", "Contentful", "Prisma", "Postman", "Firebase"]
     },
-    softSkills: ["Cross-Functional Collaboration", "Leadership / Management Skills", "Autonomy and Proactivity", "Problem Solving", "Community Management"],
-    currentFocus: ["#100DaysOfCode", "Becoming a LeetCode 150 champ 💪"],
+    softSkills: ["X-Functional Collaboration", "Leadership/Management Skills", "Mentorship", "Responsive Design", "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity", "Problem Solving", "Community Management"],
+    currentFocus: ["Studying all things front & back end", "#100DaysOfCode", "Becoming a LeetCode 150 champ 💪"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -37,7 +37,7 @@ const kevin = {
 
 ## 🚀 Quick Facts:
 
-- 🔭 I'm currently participating in #100DaysOfCode and trying to improve my React literacy.
+- 🔭 I'm currently participating in #100DaysOfCode and trying to improve my TypeScript & React literacy.
 - 🌱 I love exploring new technologies and developing new things.
 - 👯 I’m looking to collaborate on creating open-source projects.
 - 💬 Ping me about `game design`, `tech`, `community`
