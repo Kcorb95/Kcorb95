@@ -24,7 +24,9 @@ const kevin = {
         databases: ["postgres", "mysql", "mongodb", "redis", "cassandra", "sqlite"],
         technologies: ["GraphQL & Apollo", "Ghost CMS", "Contentful", "Prisma", "Postman", "Firebase"]
     },
-    softSkills: ["X-Functional Collaboration", "Leadership/Management Skills", "Mentorship", "Responsive Design", "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity", "Problem Solving", "Community Management"],
+    softSkills: ["X-Functional Collaboration", "Leadership/Management Skills", "Mentorship", "Responsive Design",
+                 "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",
+                 "Problem Solving", "Community Management"],
     currentFocus: ["Studying all things front & back end", "#100DaysOfCode", "Becoming a LeetCode 150 champ 💪"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
