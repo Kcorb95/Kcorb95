@@ -14,43 +14,43 @@ const kevin = {
     askMeAbout: ["game design", "tech", "apis", "community"],
     technologies: {
         frontEnd: {
-            js: ["Next", "Astro", "Gatsby", "React", "Svelte"],
-            css: ["Tailwind", "Bootstrap", "Bulma"]
+            js: ["React", "Next.js", "Gatsby", "Svelte", "Astro"],
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "Nest"],
+            js: ["Node", "Express", "Nest.js"],
         },
-        devOps: ["AWS", "CloudFormation/Teraform", "Vercel", "CI/CD", "Docker🐳", "Nginx"],
-        databases: ["postgres", "mysql", "mongodb", "redis", "cassandra", "sqlite"],
-        technologies: ["GraphQL & Apollo", "Ghost CMS", "Contentful", "Prisma", "Postman", "Firebase"]
+        devOps: ["AWS", "Terraform", "Vercel", "Docker🐳", "Kubernetes"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+        technologies: ["GraphQL", "Prisma", "Contentful", "Supabase", "Postman"]
     },
-    softSkills: ["X-Functional Collaboration", "Leadership/Management Skills", "Mentorship", "Responsive Design",
-                 "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",
-                 "Problem Solving", "Community Management"],
-    currentFocus: ["Studying all things front & back end", "#100DaysOfCode", "Becoming a LeetCode 150 champ 💪"],
+    softSkills: ["Cross-Functional Collaboration", "Leadership Skills", "Mentorship", "Responsive Design",
+                 "Infrastructure Management", "Technical Design", "Project Management"],
+    currentFocus: ["Studying all things front & back end", "Upskilling Terraform and Kubernetes", "Becoming a LeetCode 150 champ 💪"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
 ## 📫 How to reach me:
 
+- Website : [kevincorbett.dev](https://kevincorbett.dev/)
 - Twitter : [@DevRelKev](https://twitter.com/devrelkev)
 - LinkedIn : [Kcorb95](https://www.linkedin.com/in/Kcorb95/)
 
 ## 🚀 Quick Facts:
 
-- 🔭 I'm currently participating in #100DaysOfCode and trying to improve my TypeScript & React literacy.
+- 🔭 I'm currently participating in #100DaysOfCode, continuing to improve my TypeScript & React literacy.
 - 🌱 I love exploring new technologies and developing new things.
 - 👯 I’m looking to collaborate on creating open-source projects.
-- 💬 Ping me about `game design`, `tech`, `community`
+- 💬 Ping me about `game design`, `tech`, `community`!
 - 🚧 Currently building a community on Discord to connect New York local gamers and other hobbyists.
-- 🎳 Hobbies include anything games, tabletop, creating content, DIY, archery, ice skating, and space & science.
+- 🎳 Hobbies include anything games, tabletop, ice hockey, bouldering, archery, DIY, and space & science.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Kcorb95">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kcorb95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kcorb95&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-7r4u.vercel.app/api?username=Kcorb95&exclude_repo=Lil-Python-Programs,python-blackjack-game&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats-7r4u.vercel.app/api/top-langs/?username=Kcorb95&exclude_repo=Lil-Python-Programs,python-blackjack-game&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
